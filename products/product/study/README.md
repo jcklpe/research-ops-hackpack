@@ -1,0 +1,4 @@
+# Example Study
+A research study is a systematic and organized investigation into a particular subject, with the aim of gaining new knowledge or understanding. In the context of a research project, a research study typically involves the collection and analysis of data using one or more research methods, such as surveys, experiments, case studies, qualitative research, or workshops.
+
+The reason for having a Study to organize the individual Trials is because sometimes you'll want to do multiple iterations on the same research question. A survey, in addition to interviews, or a user testing session etc.
