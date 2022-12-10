@@ -1,8 +1,15 @@
-# Template name: Research Recruitment & Scheduling
-- **About:** Use this template when recruiting and scheduling participants for a research study
-- **Issue default title:** Recruit and schedule participants for {Project/Trial} research
-- **Assignees** n/a
-- **Labels:** Research, Design
+---
+name: Research Recruitment & Scheduling
+about: Use this template when recruiting and scheduling participants for a research study
+title: Recruit and schedule participants for {Project/Trial} research
+labels: Research, Design
+assignees: n/a
+---
+# Template name: R
+- **About:**
+- **Issue default title:**
+- **Assignees**
+- **Labels:**
 - **Template content:**
 
 ## Description
