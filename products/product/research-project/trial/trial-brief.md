@@ -1,4 +1,4 @@
-# Trial Plan for {Team, Product, Date}
+# Trial brief for {Team, Product, Date}
 **Primary Observer:** your point of contact for this trial
 **Additional Observers:** who else is planning on joining on the sessions, writing notes, etc.
 
@@ -21,14 +21,13 @@ What are you trying to learn from this research?
 How will this research advance your product to the next phase in the design process? What will you do with your learnings?
 
 ### Hypothesis
-What do you intend to learn and measure from this study? Think through these prompts to develop a strong hypothesis.
+What do you intend to learn and measure from this project? Think through these prompts to develop a strong hypothesis.
 - What do you already know about this problem space?
-- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)
-- Write a generalized statement that combines what you know + what you think will happen during the study.
-- Remember to constrain the hypothesis to the goals of your study!
+- What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the project, so don’t skip this step!)
+- Write a generalized statement that combines what you know + what you think will happen during the project.
+- Remember to constrain the hypothesis to the goals of your project!
 
 ## Methodology
-Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.
 
 Examples of common research methods include:
 
