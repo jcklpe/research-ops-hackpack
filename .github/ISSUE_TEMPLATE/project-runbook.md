@@ -1,3 +1,11 @@
+---
+name: Tracking issue
+about: Use this template for tracking new features.
+title: "[DATE]: [FEATURE NAME]"
+labels: tracking issue, needs triage
+assignees: octocat
+---
+
 # Template name: Project Runbook - UX Research
 - **About:** Use this template when starting a new UX research project. This will create a high-level checklist to guide you through building tickets for upcoming sprints.
 - **Issue default title:** Create new research project: {Project/Trial}
