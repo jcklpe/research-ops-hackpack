@@ -1,13 +1,7 @@
-name: test
-description: File a bug report
-title: "test: "
-labels: ["bug", "triage"]
-assignees:
-  - octocat
 ---
 name: Research Project Runbook
 about: Use this template when starting a new UX research project. This will create a high-level checklist to guide you through building tickets for upcoming sprints.
-title: Create new research project: {Project/Trial}
+title: Create new research project {Project/Trial}
 labels: Research, Design
 assignees: n/a
 ---
