@@ -14,10 +14,12 @@ body:
       value:
     validations:
       required: true
-
-
+  - type: textarea
     id: acceptance-criteria
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
-      render: shell
+      label: Acceptance Criteria
+      description: Checklist of tasks or deliverables needed in order to commplete the issue.
+      placeholder:
+      value:
+    validations:
+      required: true
