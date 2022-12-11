@@ -20,9 +20,9 @@ body:
       description: You probably don't need to edit this at all.
       placeholder:
       value: |
-        - [ ] Create a research [Epic](https://github.com/jcklpe/research-ops-hackpack/issues/new?assignees=octocat&labels=research%2Cdesign%2Cproduct+management%2Cepic&template=epic.yaml&title=%7BProject%2FTrial%7D+Epic) for your product/initiative
+        - [ ] Create a research [Epic](https://github.com/jcklpe/research-ops-hackpack/issues/new?assignees=octocat&labels=research%2Cdesign%2Cproduct+management%2Cepic&template=epic.yaml&title=%7BProject%2FTrial%7D+Epic).
         - [ ] Create a research project folder.
-        - [ ] Create [project brief issue]().
+        - [ ] Create [project brief issue](https://github.com/jcklpe/research-ops-hackpack/issues/new?assignees=octocat&labels=research%2Cdesign&template=project-brief.yaml&title=Write+new+project+brief%3A+%7BProject%7D+).
         - [ ] All tickets have been created and assigned
     validations:
       required: true
