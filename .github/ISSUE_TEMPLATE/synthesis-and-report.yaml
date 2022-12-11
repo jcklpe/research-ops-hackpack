@@ -1,0 +1,30 @@
+name: Synthesis and Report
+description: Use this template when synthesizing your research and compile report.
+title:  "Synthesize {Project/Trial} research and compile report "
+labels: ["research", "design",]
+assignees:
+  - octocat
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Leave this open for notes
+      placeholder:
+      value:
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Acceptance Criteria
+      description: You probably don't need to edit this at all.
+      placeholder:
+      value: |
+        - [ ] Write trial report doc.
+        - [ ] Solicit feedback from Team.
+        - [ ] Schedule stakeholders presentation for final approval.
+        - [ ] Move to "In Review" and reassign to stakeholder for review.
+
+        - [ ] Stakeholder final approval and close ticket.
+    validations:
+      required: true
