@@ -1,23 +1,35 @@
-# Template name: Trial Brief & Plan
+name: Trial Brief and Plan
+description: Use this template when you are drafting a new research trial brief and plan.
+title:  "Write new project brief: {Project} "
+labels: ["research", "design",]
+assignees:
+  - octocat
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Leave this open for notes
+      placeholder:
+      value:
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Acceptance Criteria
+      description: You probably don't need to edit this at all.
+      placeholder:
+      value: |
+        - [ ] Create a new folder in cloud document groupware (Google Docs, Office365 etc).
+        - [ ] Write draft research trial brief document, and share link in this issue as a comment.
+        - [ ] Write draft research trial plan document, and share link in this issue as a comment.
+        - [ ] Solicit feedback from Team and move to "In Review" on Github project board and reassign to Product Manager.
+          - *revision cycle*
 
-- **About:**
-- **Issue default title:** Write trial brief and plan: {Research/Trial}
-- **Assignees** n/a
-- **Labels:** Research, Design
-- **Template content:**
+        - [ ] Team review approved, reassign to Researcher, and move out of "In Review".
+        - [ ] Solicit feedback from stakeholders, move to "In Review" and reassign to stakeholder.
+          - *revision cycle*
 
-## Description
-
-Suggested workflow:
-
-- [ ] Solicit feedback on artifacts from Design Team and Product Manager
-- [ ] Schedule a 1-hour meeting with the Product Owner to review artifacts (also invite Product Manager)
-- [ ] Convert artifacts to MS Word for PO review and send at least 24 hours in advance of the review meeting
-- [ ] Convert into markdown files for final approval and sending to Research Review cycle
-
-## Acceptance Criteria
-- [ ] tag your research project
-- [ ] Identify timeslots for research sessions (should be 2 times as many slots as # of desired participants)
-- [ ] Update artifacts with PO feedback from review meeting
-- [ ] Convert artifacts to markdown format and store in github Research Folder
-- [ ] Get final approval from PO before sending to Research Review cycle
+        - [ ] Stakeholder review approved, and close.
+    validations:
+      required: true

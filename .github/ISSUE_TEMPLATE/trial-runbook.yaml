@@ -22,9 +22,8 @@ body:
       value: |
         - [ ] Create a [trial brief and plan issue]()
         - [ ] Create a [recruitment and scheduling issue](https://github.com/jcklpe/research-ops-hackpack/issues/new?assignees=octocat&labels=research%2Cdesign&template=recruitment-and-scheduling.yaml&title=Recruit%2Fschedule+participants+for+%7BProject%2FTrial%7D+research)
-        - [ ] Create a [Research Sessions issue]()
-        - [ ] Create a [Research Synthesis and Review issue]()
-        - [ ] Create a [Research Readout & Documentation issue]()
+        - [ ] Create a [research sessions issue]()
+        - [ ] Create a [synthesis and report issue]()
         - [ ] Add all the above issues to the research project Epic
     validations:
       required: true
