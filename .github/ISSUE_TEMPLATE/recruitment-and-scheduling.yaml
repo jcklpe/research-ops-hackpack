@@ -1,0 +1,29 @@
+name: Research Recruitment & Scheduling
+description: Use this template when recruiting and scheduling participants for a research study
+title:  "Recruit/schedule participants for {Project/Trial} research"
+labels: ["research", "design"]
+assignees:
+  - octocat
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description:
+      placeholder:
+      value:
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Acceptance Criteria
+      description: You probably don't need to edit this at all.
+      placeholder:
+      value: |
+        - [ ] Use scheduling app (Calendly, Microsoft Bookings, etc) to block out schedule blocks for availability.
+        - [ ] Ensure the target number of participants have been recruited and scheduled
+          - Schedule 20-25% more sessions than the desired # of participants to account for no-shows & cancellations
+        - [ ] Invite all relevant team members to the calendar events
+        - [ ] Schedule daily research debriefs and invite relevant team members
+    validations:
+      required: true

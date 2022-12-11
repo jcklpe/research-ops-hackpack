@@ -1,27 +1,6 @@
----
-name: Research Recruitment & Scheduling
-about: Use this template when recruiting and scheduling participants for a research study
-title: Recruit and schedule participants for {Project/Trial} research
-labels: Research, Design
-assignees: n/a
----
-# Template name: R
-- **About:**
-- **Issue default title:**
-- **Assignees**
-- **Labels:**
-- **Template content:**
-
 ## Description
 
 **Veteran-facing research**
-* The Research Lead should provide specific dates and time slots to Perigean as part of the Research Plan
-* The Research Lead should create placeholder calendar events to block those time slots and invite other team members
-* After the Platform Research Review is complete, Platform will direct Perigean to begin recruitment
-* Perigean will contact, screen, and schedule participants
-* Perigean will create official calendar events and invite team members indicated in the Research Plan
-* If some Observers will only be invited to certain sessions, consider using an [observer sign-up sheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/regional-offices/research/observer_schedule_template.xlsx)
-* The Research Lead should coordinate with Perigean to schedule a [pilot session](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist#ResearchChecklist-4.Runapilotsession)
 * The Research Lead should schedule 30-minute Daily Reseach Debrief meetings and invite Observer(s)
 
 **Editor-facing research**
@@ -41,9 +20,3 @@ assignees: n/a
 * These types of studies have additional logistical considerations
 * [Planning Unmoderated Studies](https://depo-platform-documentation.scrollhelp.site/research-design/planning-unmoderated-studies)
 * [Planning In-person Studies](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants#RecruitingParticipants-In-personmoderatedstudies)
-
-## Acceptance Criteria
-- [ ] Ensure the target number(s) of participants have been recruited and scheduled (for overall & primary criteria)
-  - Schedule 20-25% more sessions than the desired # of participants to account for no-shows & cancellations
-- [ ] Ensure that moderator(s), notetaker(s), and observer(s) are invited to research sessions
-- [ ] Schedule daily research debriefs and invite relevant team members

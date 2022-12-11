@@ -17,6 +17,4 @@ body:
   - type: markdown
     attributes:
       value: |
-
-
         ## Do not forget to link all relevant tickets back to this epic.
