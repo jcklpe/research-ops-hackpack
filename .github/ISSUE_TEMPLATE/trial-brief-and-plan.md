@@ -1,6 +1,6 @@
 # Template name: Trial Brief & Plan
 
-- **About:** Use this template when you are drafting a trial brief & plan
+- **About:**
 - **Issue default title:** Write trial brief and plan: {Research/Trial}
 - **Assignees** n/a
 - **Labels:** Research, Design
@@ -9,7 +9,7 @@
 ## Description
 
 Suggested workflow:
-- [ ] Create your initial drafts in Google Docs for collaborative editing
+
 - [ ] Solicit feedback on artifacts from Design Team and Product Manager
 - [ ] Schedule a 1-hour meeting with the Product Owner to review artifacts (also invite Product Manager)
 - [ ] Convert artifacts to MS Word for PO review and send at least 24 hours in advance of the review meeting
