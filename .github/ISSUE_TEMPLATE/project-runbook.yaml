@@ -32,6 +32,5 @@ body:
 
 
         - [ ] All tickets have been created and assigned
-      render: markdown
     validations:
       required: false
