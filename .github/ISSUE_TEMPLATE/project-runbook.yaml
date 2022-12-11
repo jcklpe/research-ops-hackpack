@@ -16,8 +16,8 @@ body:
       required: true
   - type: textarea
     attributes:
-      label: Steps To Reproduce
-      description: Steps to reproduce the behavior.
+      label: Acceptance Criteria
+      description: You probably don't need to edit this at all.
       placeholder:
       value: |
         - [ ] Create a research [Epic](https://github.com/jcklpe/research-ops-hackpack/issues/new?assignees=octocat&labels=bug%2Ctriage&template=testbug.yaml&title=%5BBug%5D%3A+) for your product/initiative
@@ -32,5 +32,6 @@ body:
 
 
         - [ ] All tickets have been created and assigned
+    render: markdown
     validations:
       required: false
