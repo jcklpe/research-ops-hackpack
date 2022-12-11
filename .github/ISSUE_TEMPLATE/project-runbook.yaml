@@ -24,9 +24,9 @@ body:
         - [ ] Create a research project folder and write project brief.
         - [ ] Create a [research brief and plan issue](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Design%2C+Research&template=research-plan-and-conversation-guide.md&title=Draft+%5BPRODUCT%2FINITIATIVE%5D+Research+Plan+%26+Conversation+Guide)
         - [ ] Create a [recruitment and scheduling issue](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Design%2C+Research&template=research-recruitment-and-scheduling.md&title=Recruit+and+schedule+participants+for+%5BPRODUCT%2FINITIATIVE%5D+research)
-        - [ ] Create a [Research Sessions](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Design%2C+Research&template=research-sessions.md&title=Conduct+%5BPRODUCT%2FINITIATIVE%5D+Research+Sessions) issue
-        - [ ] Create a [Research Synthesis & Topline Report](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Design%2C+Research&template=research-synthesis-and-topline-report.md&title=Synthesize+%5BPRODUCT%2FINITIATIVE%5D+Research+%26+Create+Topline+Report) issue
-        - [ ] Create a [Research Readout & Documentation](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Design%2C+Research&template=research-readout-and-documentation.md&title=Conduct+%5BPRODUCT%2FINITIATIVE%5D+Research+Readout+and+Document+Report+in+Research+Repository) issue
+        - [ ] Create a [Research Sessions issue](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Design%2C+Research&template=research-sessions.md&title=Conduct+%5BPRODUCT%2FINITIATIVE%5D+Research+Sessions)
+        - [ ] Create a [Research Synthesis and Review issue](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Design%2C+Research&template=research-synthesis-and-topline-report.md&title=Synthesize+%5BPRODUCT%2FINITIATIVE%5D+Research+%26+Create+Topline+Report)
+        - [ ] Create a [Research Readout & Documentation issue](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Design%2C+Research&template=research-readout-and-documentation.md&title=Conduct+%5BPRODUCT%2FINITIATIVE%5D+Research+Readout+and+Document+Report+in+Research+Repository)
         - [ ] Add all the above issues to the Research Epic and add dependencies
 
 
