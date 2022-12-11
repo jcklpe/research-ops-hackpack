@@ -32,7 +32,6 @@ body:
 
 
 - [ ] All tickets have been created and assigned
-
     validations:
       required: true
 
