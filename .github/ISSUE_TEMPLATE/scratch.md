@@ -4,7 +4,7 @@
 ## Description
 {Brief description of research project's overall purpose}
 
-## Acceptance Criteria
+##
 - [ ] Create a research [Epic](https://github.com/jcklpe/research-ops-hackpack/issues/new?assignees=octocat&labels=bug%2Ctriage&template=testbug.yaml&title=%5BBug%5D%3A+) for your product/initiative
 - [ ] Create a research project folder and write project brief.
 - [ ] Create a [research brief and plan](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/new?assignees=&labels=Design%2C+Research&template=research-plan-and-conversation-guide.md&title=Draft+%5BPRODUCT%2FINITIATIVE%5D+Research+Plan+%26+Conversation+Guide) issue
