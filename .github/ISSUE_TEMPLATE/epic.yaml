@@ -1,0 +1,20 @@
+name: Research Epic
+description: Epic for organizing research project
+title:  "{Project/Trial} Epic"
+labels: ["research", "design", "product management", "epic"]
+assignees:
+  - octocat
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Brief description of research project's overall purpose
+      placeholder:
+      value:
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        ## Do not forget to link all relevant tickets back to this epic.
