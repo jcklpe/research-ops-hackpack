@@ -20,10 +20,10 @@ body:
       description: You probably don't need to edit this at all.
       placeholder:
       value: |
-        - [ ] Create a [trial brief and plan issue]()
-        - [ ] Create a [recruitment and scheduling issue](https://github.com/jcklpe/research-ops-hackpack/issues/new?assignees=octocat&labels=research%2Cdesign&template=recruitment-and-scheduling.yaml&title=Recruit%2Fschedule+participants+for+%7BProject%2FTrial%7D+research)
-        - [ ] Create a [research sessions issue]()
-        - [ ] Create a [synthesis and report issue]()
-        - [ ] Add all the above issues to the research project Epic
+        - [ ] Create a [trial brief and plan issue](https://github.com/jcklpe/research-ops-hackpack/issues/new?assignees=octocat&labels=research%2Cdesign&template=trial-brief-and-plan.yaml&title=Write+new+project+brief%3A+%7BProject%7D+).
+        - [ ] Create a [recruitment and scheduling issue](https://github.com/jcklpe/research-ops-hackpack/issues/new?assignees=octocat&labels=research%2Cdesign&template=recruitment-and-scheduling.yaml&title=Recruit%2Fschedule+participants+for+%7BProject%2FTrial%7D+research).
+        - [ ] Create a [research sessions issue]().
+        - [ ] Create a [synthesis and report issue]().
+        - [ ] Add all the above issues to the research project Epic.
     validations:
       required: true

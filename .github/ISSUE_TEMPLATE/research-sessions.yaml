@@ -1,0 +1,35 @@
+name: Research Sessions
+description: Use this template when you are conducting research sessions
+title:  "Conduct {Project/Trial} research sessions "
+labels: ["research", "design",]
+assignees:
+  - octocat
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Leave this open for notes
+      placeholder:
+      value:
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Acceptance Criteria
+      description: You probably don't need to edit this at all.
+      placeholder:
+      value: |
+        - [ ] Create a new folder in cloud document groupware (Google Docs, Office365 etc).
+        - [ ] Write draft research trial brief document, and share link in this issue as a comment.
+        - [ ] Write draft research trial plan document, and share link in this issue as a comment.
+        - [ ] Solicit feedback from Team and move to "In Review" on Github project board and reassign to Product Manager.
+          - *revision cycle*
+
+        - [ ] Team review approved, reassign to Researcher, and move out of "In Review".
+        - [ ] Solicit feedback from stakeholders, move to "In Review" and reassign to stakeholder.
+          - *revision cycle*
+
+        - [ ] Stakeholder review approved, and close.
+    validations:
+      required: true
