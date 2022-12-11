@@ -9,7 +9,7 @@ body:
     id: description
     attributes:
       label: Description
-      description:
+      description: Additional notes can go in this section
       placeholder:
       value:
     validations:
