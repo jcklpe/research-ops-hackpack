@@ -28,4 +28,4 @@ body:
         - npm:
     render: markdown
   validations:
-    required: true
+    required: false
