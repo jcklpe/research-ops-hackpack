@@ -20,7 +20,7 @@ body:
       description: You probably don't need to edit this at all.
       placeholder:
       value: |
-        - [ ] Perform necessary [Synthesis methods](synthesis-methods.md)
+        - [ ] Perform necessary [Synthesis methods](https://github.com/jcklpe/research-ops-hackpack/blob/main/synthesis-methods.md)
         - [ ] Write trial report doc.
         - [ ] Solicit feedback from Team.
         - [ ] Schedule stakeholders presentation for final approval.
