@@ -2,7 +2,7 @@
 
 This is a template to get started fast on ux researchOps in an organization.
 
-It's inspired by work produced at the [VA](https://depo-platform-documentation.scrollhelp.site/research-design/) and my own notes and processes accumulated over the years.
+It's inspired by work produced at the [VA](https://depo-platform-documentation.scrollhelp.site/research-design/) and my own notes and processes accumulated over the years. (Big thanks to [Dave Pickett](https://github.com/davidmpickett) for his concept of using git issue template "runbooks" to organize product management tasks.)
 
 This document is to be used by teams that are responsible for UX design and research, and it may be shared with stakeholders to ensure that everyone has a clear understanding of how UX research is managed within the organization.
 
