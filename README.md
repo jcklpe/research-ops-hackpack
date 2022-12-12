@@ -17,9 +17,49 @@ The purpose of a researchOps repo is to provide a clear and concise overview of 
 
 ## Research Workflow
 ```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
+graph TD
+    Start([Start a new research project]) --> RPR[/Research Project Runbook issue/]
+    RPR --create--> RE[/Research Epic/]
+    RPR --create--> GIT[project folder in git repo]
+    RPR --create--> PB[/Project Brief issue/]
+    %%E -.->C
+    PB --create--> CD[cloud doc research editing folder]
+    CD --write--> PBD[[Project Brief draft]]
+    PBD --review--> H{Team approval?}
+    H --No--> PBD
+    H --Yes--> K{Stakeholder approval?}
+    K --No--> H
+    K --Yes--> L[[Final Project Brief]]
+    L -.-> GIT
+    L --> M([Start new research trial])
+    M --> N[/Research Trial Runbook issue/]
+    N --create--> O[/Trial Brief and Plan issue/]
+    N --create--> RS[/Recruitment and Scheduling issue/]
+    N --create--> RSI[/Research Sessions issue/]
+    N --create--> R[/Synthesis and Report issue/]
+    O --create--> S[cloud doc research editing folder]
+    S --write--> TBD[[Trial Brief draft]]
+    TBD --review--> TTA{Team approval?}
+    TTA --No--> TBD
+    TTA --Yes--> TSA{Stakeholder approval?}
+    TSA --No--> TTA
+    TSA --Yes--> FTB[[Final Trial Brief]]
+    FTB-.-> GIT
+    FTB --> RS
+    RS --> RDT[[Recruitment tracker]]
+    RDT -.-> GIT
+    RS --> SP[Schedule particpants]
+    SP --> RSI
+    RSI --conduct--> CS[Sessions]
+    CS -.-> RDT
+    CS --> FN[[Field Notes and Session Artifacts]]
+    FN -.-> GIT
+    CS --> R
+    R --create--> SD[[Synthesis artifacts]]
+    SD -.-> R
+    SD --write--> TRD[[Trial Report doc]]
+    TRD -.-> GIT
+    TRD --> PTF[Present to Team for feedback]
+    PTF --schedule--> SHP[Stakeholder presentation]
+    SHP --> END([Stakeholder research trial sign off])
 ```
