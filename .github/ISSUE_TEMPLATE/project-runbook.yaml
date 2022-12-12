@@ -13,7 +13,7 @@ body:
       placeholder:
       value:
     validations:
-      required: true
+      required: false
   - type: textarea
     attributes:
       label: Acceptance Criteria
