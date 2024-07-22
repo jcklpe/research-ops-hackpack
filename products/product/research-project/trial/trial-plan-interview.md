@@ -1,4 +1,4 @@
-# Trial brief: Interview
+# Trial Plan: Interview
 
 ## Intro
 
